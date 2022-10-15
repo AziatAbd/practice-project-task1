@@ -1,0 +1,16 @@
+.color {
+  border: solid 1px #000;
+  width: 150px;
+  height: 150px;
+  background-color: lime;
+}
+
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
